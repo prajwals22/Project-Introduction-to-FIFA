@@ -1,7 +1,8 @@
 # Project-Introduction-to-FIFA
-Tableau Project
 
-![image alt](https://github.com/prajwals22/Project-Introduction-to-FIFA/blob/09f77f569055f5bdeb598468b1f39ee97b7a5c9c/Dashboard.jpg)
+##Tableau Project
+
+[![image alt](https://github.com/prajwals22/Project-Introduction-to-FIFA/blob/09f77f569055f5bdeb598468b1f39ee97b7a5c9c/Dashboard.jpg)](https://public.tableau.com/app/profile/prajwal.shendge/viz/Football_Analysis_17314017713540/CreateDashboard)
 
 Introduction to FIFA
 FIFA is one of the most popular football video games developed by EA Sports. It simulates real-life football matches and allows players to control football teams composed of real-life players. Each player in the game has attributes that affect their performance on the virtual pitch, such as speed, shooting accuracy, and defensive skills. These attributes are quantified in a dataset, which provides a wealth of information that can be analyzed to gain insights into player and team performance.
