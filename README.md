@@ -1,10 +1,9 @@
 # Project-Introduction-to-FIFA
 Tableau Project
 
+![image alt](https://github.com/prajwals22/Project-Introduction-to-FIFA/blob/09f77f569055f5bdeb598468b1f39ee97b7a5c9c/Dashboard.jpg)
+
 Introduction to FIFA
-
-![Link](https://public.tableau.com/app/profile/prajwal.shendge/viz/Football_Analysis_17314017713540/CreateDashboard?publish=yes)
-
 FIFA is one of the most popular football video games developed by EA Sports. It simulates real-life football matches and allows players to control football teams composed of real-life players. Each player in the game has attributes that affect their performance on the virtual pitch, such as speed, shooting accuracy, and defensive skills. These attributes are quantified in a dataset, which provides a wealth of information that can be analyzed to gain insights into player and team performance.
 
 Understanding the Fifa19 Dataset The Fifa19 dataset contains detailed information about football players featured in the FIFA 19 video game. The dataset includes attributes such as:
