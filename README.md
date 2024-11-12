@@ -1,6 +1,6 @@
 # Project-Introduction-to-FIFA
 
-##Tableau Project
+## Tableau Project
 
 [![image alt](https://github.com/prajwals22/Project-Introduction-to-FIFA/blob/09f77f569055f5bdeb598468b1f39ee97b7a5c9c/Dashboard.jpg)](https://public.tableau.com/app/profile/prajwal.shendge/viz/Football_Analysis_17314017713540/CreateDashboard)
 
